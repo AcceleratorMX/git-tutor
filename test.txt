@@ -1,8 +1,7 @@
 git test text 
 
-v2
-
 ceper test 228
 
 add command
 
+commit 2
